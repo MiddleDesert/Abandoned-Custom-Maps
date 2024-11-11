@@ -1,2 +1,3 @@
 https://github.com/MiddleDesert/TestMap/archive/refs/heads/main.zip
 https://github.com/MiddleDesert/Parkour/archive/refs/heads/main.zip
+https://github.com/Momonkevr/rizzgyat/archive/refs/heads/main.zip
